@@ -1,7 +1,7 @@
 ## Hi there! Welcome to my Github profile. I'm Davince! 👋
 
 - 🎓 I have a Bachelor's degree in Administration from IFPB.
-- 🌱 I’m currently learning to program at Alura.
+- 🌱 I’m currently learning how to program at Alura.
 
 <div>
 <a href="https://github.com/Davince-Alves">
